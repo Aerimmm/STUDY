@@ -11,7 +11,7 @@ https://wndofla123.tistory.com/95
 
 
 
-### 3.
+### 3
 ### Kaggle : GTZAN Dataset - Music Genre Classification
 https://wndofla123.tistory.com/96
 
